@@ -29,3 +29,4 @@ You can easily add or remove jobs and fine-tune their stamina limits and drain s
 - [QBCore Framework](https://github.com/qbcore-framework)
 
 ---
+Discord: syntax_2024
